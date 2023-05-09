@@ -2,8 +2,6 @@
 
 Ashdeep Singh 
 
-CSCI 335 (Hunter College)
-
 ## Background Information: 
 In this project we implemented various algorithms to sort an array of elements from least to greatest. 
 
